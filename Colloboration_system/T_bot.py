@@ -8,9 +8,6 @@ from news_gathering_script import main
 from datetime import datetime
 import re
 
-"""
-Ссылки выводятся плохо, потому что 1. Либо парсятся плохо 2. Либо изначально они неправильно относятся к новостям
-"""
 
 TOKEN = 'ACCESS_TOKEN'
 HELP_TEXT = '''<b>Available tags:</b>
