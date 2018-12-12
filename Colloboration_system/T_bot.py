@@ -12,7 +12,7 @@ import re
 Ссылки выводятся плохо, потому что 1. Либо парсятся плохо 2. Либо изначально они неправильно относятся к новостям
 """
 
-TOKEN = '716296693:AAE76_XI5J8f596xRjommGgE1GTdoWwAboU'
+TOKEN = 'ACCESS_TOKEN'
 HELP_TEXT = '''<b>Available tags:</b>
                               \n--> <i>Sport</i>
                               \n--> <i>Economics</i>
